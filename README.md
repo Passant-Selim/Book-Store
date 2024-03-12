@@ -1,8 +1,8 @@
 *Bookstore Backend*
-This is the backend server for a bookstore application built with Node.js, Mongoose, and MongoDB Atlas.
+-This is the backend server for a bookstore application built with Node.js, Mongoose, and MongoDB Atlas.
 
 *Features:
-CRUD operations for books.
+-CRUD operations for books.
 
 *Technologies Used:
 -Node.js.
